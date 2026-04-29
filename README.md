@@ -31,4 +31,4 @@
 
 加我请备注来意
 
-![image-20260429162906190 alt="image-20231006124944803" style="width: 200px;"](assets/image-20231006124944803.png)
+![image-20260429162906190 alt="image-20231006124944803" style="width: 50px;"](assets/image-20231006124944803.png)

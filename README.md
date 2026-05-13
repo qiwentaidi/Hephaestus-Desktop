@@ -3,6 +3,12 @@
 </div>
 <h1 align="center">Hephaestus Desktop Client</h1>
 
+<div align="center">
+  <a href="README.md">`中文`</a> •
+  <a href="README_EN.md">`English`</a>
+
+</div>
+
 这虽然是一个新的项目但是也可作为 Slack v3 版本使用。
 
 相比 v2，v3 的升级重点不只是漏洞数量增加，而是围绕扫描能力、结果管理和实际使用链路做了整体增强：全新扫描策略、全局报告管理、更完善的请求转发，以及从 3400+ 提升到 4900+ 的漏洞覆盖。
@@ -32,4 +38,3 @@
 加我请备注来意
 
 <img src="assets/image-20231006124944803.png" alt="image-20231006124944803" style="width: 100px;" />
-

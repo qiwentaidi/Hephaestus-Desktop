@@ -4,9 +4,8 @@
 <h1 align="center">Hephaestus Desktop Client</h1>
 
 <div align="center">
-  <a href="README.en.md">`English`</a> •
-  <a href="README.md">`中文`</a>
-
+  <a href="https://github.com/qiwentaidi/Hephaestus-Desktop/blob/main/README.md">中文</a> •
+  <a href="https://github.com/qiwentaidi/Hephaestus-Desktop/blob/main/README_EN.md">English</a>
 </div>
 
 Although this is a new project, it can also be used as the Slack v3 release.

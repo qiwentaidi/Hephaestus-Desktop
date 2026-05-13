@@ -8,7 +8,9 @@
   <a href="https://github.com/qiwentaidi/Hephaestus-Desktop/blob/main/README_EN.md">English</a>
 </div>
 
-Although this is a new project, it can also be used as the Slack v3 release.
+<br />
+
+This project is the v3 release of [Slack](https://github.com/qiwentaidi/Slack).
 
 Compared with v2, the focus of the v3 upgrade is not just a higher vulnerability count. It is a broader enhancement across scanning capability, result management, and real-world usability: a brand-new scanning strategy, global report management, more complete request forwarding, and vulnerability coverage expanded from 3400+ to 4900+.
 

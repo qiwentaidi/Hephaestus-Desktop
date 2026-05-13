@@ -8,7 +8,9 @@
   <a href="https://github.com/qiwentaidi/Hephaestus-Desktop/blob/main/README_EN.md">English</a>
 </div>
 
-这虽然是一个新的项目但是也可作为 Slack v3 版本使用。
+<br />
+
+该项目为 [Slack](https://github.com/qiwentaidi/Slack) v3 版本。
 
 相比 v2，v3 的升级重点不只是漏洞数量增加，而是围绕扫描能力、结果管理和实际使用链路做了整体增强：全新扫描策略、全局报告管理、更完善的请求转发，以及从 3400+ 提升到 4900+ 的漏洞覆盖。
 

@@ -11,8 +11,6 @@
 
 Hephaestus Desktop is the desktop client for [Hephaestus](https://github.com/qiwentaidi/Hephaestus). It combines attack surface assessment, AI penetration testing conversations, asset and vulnerability management, and a launcher for local tools. An embedded local service and SQLite database make it suitable for security testing on a single machine and integration with local tools.
 
-The project evolved from [Slack](https://github.com/qiwentaidi/Slack) v3. This repository provides desktop client information and release downloads.
-
 - Desktop downloads: [Releases](https://github.com/qiwentaidi/Hephaestus-Desktop/releases)
 - Web service and platform overview: [Hephaestus](https://github.com/qiwentaidi/Hephaestus)
 - Scanning nodes and command-line tools: [Hephaestus-Agent](https://github.com/qiwentaidi/Hephaestus-Agent)
@@ -45,7 +43,6 @@ For the full platform overview and Web deployment instructions, see the [Hephaes
 - **Local launcher**: Manage local tools and JDK configurations, launch tools, and open their folders or terminals.
 - **Separate settings window**: Use the gear button at the top to open settings for scanning, AI, appearance, and language.
 - **Mini-program decompilation**: Access mini-program decompilation from the desktop client.
-- **System integration**: Save downloads through the system file dialog and open external links in the default browser.
 
 ## Quick Start
 
@@ -100,9 +97,3 @@ Check that configuration resources have been downloaded under **System Settings 
 ### What If the Embedded Service Port Is Occupied?
 
 The client attempts to use a temporary port and continue startup. To specify a preferred port, set `HEPHAESTUS_DESKTOP_BACKEND_PORT` before launching the client.
-
-## Contact
-
-Please include a short note about your purpose when getting in touch.
-
-<img src="assets/image-20231006124944803.png" alt="Contact information" width="100" />

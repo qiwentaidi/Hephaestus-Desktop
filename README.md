@@ -11,8 +11,6 @@
 
 Hephaestus Desktop 是 [Hephaestus](https://github.com/qiwentaidi/Hephaestus) 的桌面客户端，集成攻击面评估、AI 渗透对话、资产与漏洞管理，以及本地工具启动器等能力。内置本地服务，默认使用 SQLite，适合单机安全测试和本地工具整合。
 
-本项目由原 [Slack](https://github.com/qiwentaidi/Slack) v3 版本演进而来。本仓库提供桌面客户端介绍与发布下载。
-
 - 桌面客户端下载：[Releases](https://github.com/qiwentaidi/Hephaestus-Desktop/releases)
 - Web 服务与平台介绍：[Hephaestus](https://github.com/qiwentaidi/Hephaestus)
 - 扫描节点与命令行工具：[Hephaestus-Agent](https://github.com/qiwentaidi/Hephaestus-Agent)
@@ -45,7 +43,6 @@ Hephaestus Desktop 是 [Hephaestus](https://github.com/qiwentaidi/Hephaestus) �
 - **本地启动器**：集中管理本地工具及 JDK 配置，启动工具、打开所在目录或终端。
 - **独立设置窗口**：通过顶部齿轮单独打开设置，配置扫描参数、AI、外观和语言。
 - **小程序反编译**：提供桌面端的小程序反编译入口。
-- **系统集成**：下载文件时使用系统保存对话框，外部链接通过系统默认浏览器打开。
 
 ## 快速开始
 
@@ -100,9 +97,3 @@ Hephaestus Desktop 是 [Hephaestus](https://github.com/qiwentaidi/Hephaestus) �
 ### 内置服务端口被占用怎么办？
 
 客户端会尝试使用临时端口继续启动。如需指定首选端口，在启动客户端前设置 `HEPHAESTUS_DESKTOP_BACKEND_PORT`。
-
-## 联系方式
-
-添加联系时请备注来意。
-
-<img src="assets/image-20231006124944803.png" alt="联系信息" width="100" />
